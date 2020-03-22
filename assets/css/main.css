@@ -2389,8 +2389,8 @@ button:active,
 
 .image.smaller {
   margin: 0 auto;
-  max-height: 40rem;
-  max-width: 40rem;
+  max-height: 20rem;
+  max-width: 20rem;
 }
 
 /* Wide */
