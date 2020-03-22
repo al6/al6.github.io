@@ -2387,6 +2387,12 @@ button:active,
   background-color: #e8edec;
 }
 
+.image.smaller {
+  margin: 0 auto;
+  max-height: 40rem;
+  max-width: 40rem;
+}
+
 /* Wide */
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
