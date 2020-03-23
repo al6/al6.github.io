@@ -2392,6 +2392,12 @@ button:active,
   max-width: 20rem;
 }
 
+.technical-bullet {
+  display: list-item;
+  margin-left: 1.5rem;
+  text-align: left;
+}
+
 /* Wide */
 
 @media screen and (min-width: 961px) and (max-width: 1880px) {
