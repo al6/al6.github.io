@@ -1,6 +1,6 @@
 # [Live Site](https://albertlee.io "My website homepage")
 
-This is my personal site, built with HTML5Up's Prologue Template found [here](https://html5up.net/prologue "HTML5UP Prologue Website Template")
+This is my personal site, built with [HTML5Up's Prologue Template](https://html5up.net/prologue "HTML5UP Prologue Website Template")
 
 There was one minor bug that I didn't want to fix but it bugged me enough to fix after all (ba dum tss! I'm sorry).
 When you click on one of the navigation links to scroll to a different part of the page, the other nav buttons flicker and the wrong ones get toggled occasionally, even in the template's live demo.
