@@ -2,10 +2,9 @@
 
 This is my personal site, built with [HTML5Up's Prologue Template](https://html5up.net/prologue "HTML5UP Prologue Website Template")
 
-There was one minor bug that I didn't want to fix but it bugged me enough to fix after all.
-When you click on one of the navigation links to scroll to a different part of the page, the other nav buttons flicker and the wrong ones get toggled occasionally, even in the template's live demo.
+There was one tiny bug when you click on one of the navigation links to scroll to a different part of the page the other nav buttons flicker and the wrong ones get toggled occasionally, even in the template's live demo.
 
-I spent more time fixing this bug than I want to admit, so here's the code in case you want to fix the same bug, located in the main.js file.
+Here's the code in case you want to fix the same bug, located in the main.js file.
 
 ## main.js file (abridged from original)
 
