@@ -19,24 +19,24 @@
   (
     wide: (
       961px,
-      1880px
+      1880px,
     ),
     normal: (
       961px,
-      1620px
+      1620px,
     ),
     narrow: (
       961px,
-      1320px
+      1320px,
     ),
     narrower: (
       737px,
-      960px
+      960px,
     ),
     mobile: (
       null,
-      736px
-    )
+      736px,
+    ),
   )
 );
 
@@ -899,7 +899,7 @@ button,
 
     &.one {
       background-color: #81918e;
-      background-image: url("../../images/banner.jpeg");
+      background-image: url("images/banner.jpeg");
     }
 
     &.two {
